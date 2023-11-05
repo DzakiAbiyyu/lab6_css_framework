@@ -1,0 +1,12 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+  
+
+.center-vertically {
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+}
+.main-container 
